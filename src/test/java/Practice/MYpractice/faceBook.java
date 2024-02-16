@@ -19,6 +19,15 @@ public class faceBook extends CI_BaseTest {
 		System.out.println("postjeera2");
 		System.out.println("postjeera3");
 		System.out.println("postjeera4");
+		//isgfgdyfgu
+		//dvvdhfryhgf
+		//dfyugfyrgf
+		//dfduvfgvdfh
+		//fgfygugfhur
+		System.out.println("postjeera1");
+		System.out.println("postjeera2");
+		System.out.println("postjeera3");
+		System.out.println("postjeera4");
 
 	}
 
