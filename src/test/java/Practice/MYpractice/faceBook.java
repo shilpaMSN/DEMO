@@ -15,6 +15,10 @@ public class faceBook extends CI_BaseTest {
 		CI_FB_pageobject launch = launchApp();
 		String text=launch.getText();
 		Assert.assertTrue(text.equalsIgnoreCase("Forgotten password?"));
+		System.out.println("postjeera1");
+		System.out.println("postjeera2");
+		System.out.println("postjeera3");
+		System.out.println("postjeera4");
 
 	}
 
