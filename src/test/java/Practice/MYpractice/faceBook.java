@@ -25,20 +25,9 @@ public class faceBook extends CI_BaseTest {
 		CI_FB_pageobject launch = launchApp();
 		String text = launch.getText();
 		Assert.assertTrue(text.equalsIgnoreCase("Forgotten password?"));
-		System.out.println("postjeera1");
-		System.out.println("postjeera2");
-		System.out.println("postjeera3");
-		System.out.println("postjeera4");
-		// isgfgdyfgu
-		// dvvdhfryhgf
-		// dfyugfyrgf
-		// dfduvfgvdfh
-		// fgfygugfhur
-		System.out.println("postjeera1");
-		System.out.println("postjeera2");
-		System.out.println("postjeera3");
-		System.out.println("postjeera4");
-	}
+		System.out.println("siri");
+		System.out.println("siri");
+			}
 
 	@Test
 	public void PlaceOrder2() throws IOException {
